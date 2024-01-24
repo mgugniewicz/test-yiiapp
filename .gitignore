@@ -1,0 +1,14 @@
+# Ignore runtime directory
+yiiapp/protected/runtime/*
+
+# Ignore published assets
+# assets/*
+
+# Ignore local configuration
+# protected/config/*
+
+# Ignore Composer dependencies
+# vendor/
+
+# Ignore IDE-related files
+.idea/*
